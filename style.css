@@ -389,7 +389,7 @@ footer ul li a:hover {
 				background-color: blue;
 }
 
-@media(max-width: 600px) {
+@media(max-width: 992px) {
 	.nav-menu { 
     position: fixed; 
     right: -100%; 
